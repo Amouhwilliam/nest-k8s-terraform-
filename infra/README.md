@@ -1,0 +1,1 @@
+### aws eks update-kubeconfig --name cluster-name --region eu-central-1
